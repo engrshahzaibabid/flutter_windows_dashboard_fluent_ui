@@ -4,7 +4,7 @@
 
 ## About
 
-Welcome to the Flutter Windows App Dashboard repository! This open-source project provides a dashboard template for Flutter Windows desktop applications. The dashboard offers a sleek and user-friendly interface for managing various aspects of your desktop application.
+Welcome to the Flutter Windows App Dashboard repository! This open-source project provides a dashboard template for Flutter Windows desktop applications developed using Fluent UI. The dashboard offers a sleek and user-friendly interface for managing various aspects of your desktop application.
 
 ## Screenshots
 
